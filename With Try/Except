@@ -1,0 +1,5 @@
+try:
+    run_critical_task()
+    chimex.success()
+except Exception:
+    chimex.error()

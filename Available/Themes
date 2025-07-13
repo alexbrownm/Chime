@@ -1,1 +1,6 @@
-
+Theme Name	Description	Sounds
+default	Simple alert tones	✅ ✅ ✅
+mario	Nintendo-style jump, coin, fail	✅ ✅ ✅
+windows	Classic Windows alert sounds	✅ ✅ ✅
+anime	Anime-style sounds (cute/alert)	✅ ✅ ✅
+custom	Load your own .wav files	✅ ✅ ✅

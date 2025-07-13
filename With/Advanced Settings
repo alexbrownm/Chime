@@ -1,0 +1,5 @@
+chimex.volume(0.7)        # Set volume (0.0 - 1.0)
+chimex.mute(True)         # Disable sound (useful in tests)
+chimex.loop(False)        # Prevent looping (default)
+chimex.delay(0.5)         # Wait before playing (seconds)
+chimex.set('error', 'path/to/error.wav')  # Override a specific sound

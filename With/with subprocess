@@ -1,0 +1,8 @@
+import subprocess
+import chimex
+
+try:
+    subprocess.run(['python', 'data_pipeline.py'], check=True)
+    chimex.success()
+except subprocess.CalledProcessError:
+    chimex.error()
